@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-spindoctor/static/css/main.dd4cd980.css",
-    "main.js": "/react-spindoctor/static/js/main.91778db7.js",
-    "static/js/787.3bbfaed3.chunk.js": "/react-spindoctor/static/js/787.3bbfaed3.chunk.js",
-    "index.html": "/react-spindoctor/index.html",
-    "main.dd4cd980.css.map": "/react-spindoctor/static/css/main.dd4cd980.css.map",
-    "main.91778db7.js.map": "/react-spindoctor/static/js/main.91778db7.js.map",
-    "787.3bbfaed3.chunk.js.map": "/react-spindoctor/static/js/787.3bbfaed3.chunk.js.map"
+    "main.css": "/static/css/main.dd4cd980.css",
+    "main.js": "/static/js/main.3ea5dbcc.js",
+    "static/js/787.3bbfaed3.chunk.js": "/static/js/787.3bbfaed3.chunk.js",
+    "index.html": "/index.html",
+    "main.dd4cd980.css.map": "/static/css/main.dd4cd980.css.map",
+    "main.3ea5dbcc.js.map": "/static/js/main.3ea5dbcc.js.map",
+    "787.3bbfaed3.chunk.js.map": "/static/js/787.3bbfaed3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd4cd980.css",
-    "static/js/main.91778db7.js"
+    "static/js/main.3ea5dbcc.js"
   ]
 }
